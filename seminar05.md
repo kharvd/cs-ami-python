@@ -34,6 +34,15 @@
 ```
 
 ## Дата и время
+* https://docs.python.org/3/library/time.html
+* https://docs.python.org/3/library/datetime.html
+* https://docs.python.org/3/library/calendar.html
+
 ## Файловый ввод-вывод
+* https://docs.python.org/3/tutorial/inputoutput.html
+
 ## Сторонние библиотеки
-## `requests`
+* https://pypi.org/project/pip/
+### `requests`
+* http://docs.python-requests.org/en/master/
+* https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol
